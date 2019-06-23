@@ -11,6 +11,7 @@
 
 
 第一版为2017年出版《Python 网络爬虫：从入门到实践》
+
 京东：[《Python网络爬虫从入门到实践》(唐松，陈智铨)- 京东图书](http://item.jd.com/12180379.html)
 
 当当：[《Python网络爬虫从入门到实践》(唐松 陈智铨)- 当当图书](http://product.dangdang.com/25162123.html)
