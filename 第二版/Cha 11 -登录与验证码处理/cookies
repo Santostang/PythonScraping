@@ -1,0 +1,4 @@
+#LWP-Cookies-2.0
+Set-Cookie3: wordpress_logged_in_d7bcd9a2844a13f8dc3e5a4eb2cdfa70="test%7C1544889241%7CzMUKtgScAb81VCyAMpqMQ8fQ7jryOCjFrooHMWk72xF%7C449659c6398642d69e61044e14efbb77b42028c4063536da2725f55e8aa5af26"; path="/"; domain="www.santostang.com"; path_spec; expires="2018-12-16 03:54:01Z"; httponly=None; version=0
+Set-Cookie3: wordpress_d7bcd9a2844a13f8dc3e5a4eb2cdfa70="test%7C1544889241%7CzMUKtgScAb81VCyAMpqMQ8fQ7jryOCjFrooHMWk72xF%7C823caf1f78a9836d8921bb977cb81ae822c6020cd554a0658d77d5475a4b0303"; path="/wp-admin"; domain="www.santostang.com"; path_spec; expires="2018-12-16 03:54:01Z"; httponly=None; version=0
+Set-Cookie3: wordpress_d7bcd9a2844a13f8dc3e5a4eb2cdfa70="test%7C1544889241%7CzMUKtgScAb81VCyAMpqMQ8fQ7jryOCjFrooHMWk72xF%7C823caf1f78a9836d8921bb977cb81ae822c6020cd554a0658d77d5475a4b0303"; path="/wp-content/plugins"; domain="www.santostang.com"; path_spec; expires="2018-12-16 03:54:01Z"; httponly=None; version=0
